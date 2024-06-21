@@ -1,6 +1,6 @@
 # Little Lemon Food Ordering UI/UX Design
 
-![Screenshot](Prototype-HW.png)
+![Screenshot](screenshots/Prototype-HW.png)
 
 ## Overview
 The **Little Lemon Food Ordering UI/UX Design** is a conceptual prototype for a food ordering platform inspired by a restaurant called "Little Lemon" in Chicago. While this is not a functional app, it showcases key UI/UX design concepts and interactions.
